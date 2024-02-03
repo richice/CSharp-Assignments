@@ -1,0 +1,14 @@
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.csproj.AssemblyReference.cache
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.AssemblyInfoInputs.cache
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.AssemblyInfo.cs
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.csproj.CoreCompileInputs.cache
+F:\CODE\C#\03-Variable\bin\Debug\netcoreapp3.1\03-Variable.exe
+F:\CODE\C#\03-Variable\bin\Debug\netcoreapp3.1\03-Variable.deps.json
+F:\CODE\C#\03-Variable\bin\Debug\netcoreapp3.1\03-Variable.runtimeconfig.json
+F:\CODE\C#\03-Variable\bin\Debug\netcoreapp3.1\03-Variable.runtimeconfig.dev.json
+F:\CODE\C#\03-Variable\bin\Debug\netcoreapp3.1\03-Variable.dll
+F:\CODE\C#\03-Variable\bin\Debug\netcoreapp3.1\03-Variable.pdb
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.dll
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.pdb
+F:\CODE\C#\03-Variable\obj\Debug\netcoreapp3.1\03-Variable.genruntimeconfig.cache

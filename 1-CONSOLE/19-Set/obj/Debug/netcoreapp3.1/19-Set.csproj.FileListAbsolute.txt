@@ -1,0 +1,14 @@
+F:\CODE\C#\19-Set\bin\Debug\netcoreapp3.1\19-Set.exe
+F:\CODE\C#\19-Set\bin\Debug\netcoreapp3.1\19-Set.deps.json
+F:\CODE\C#\19-Set\bin\Debug\netcoreapp3.1\19-Set.runtimeconfig.json
+F:\CODE\C#\19-Set\bin\Debug\netcoreapp3.1\19-Set.runtimeconfig.dev.json
+F:\CODE\C#\19-Set\bin\Debug\netcoreapp3.1\19-Set.dll
+F:\CODE\C#\19-Set\bin\Debug\netcoreapp3.1\19-Set.pdb
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.csproj.AssemblyReference.cache
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.AssemblyInfoInputs.cache
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.AssemblyInfo.cs
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.csproj.CoreCompileInputs.cache
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.dll
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.pdb
+F:\CODE\C#\19-Set\obj\Debug\netcoreapp3.1\19-Set.genruntimeconfig.cache

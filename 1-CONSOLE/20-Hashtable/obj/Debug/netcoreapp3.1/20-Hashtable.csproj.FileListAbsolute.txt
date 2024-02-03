@@ -1,0 +1,14 @@
+F:\CODE\C#\20-Hashtable\bin\Debug\netcoreapp3.1\20-Hashtable.exe
+F:\CODE\C#\20-Hashtable\bin\Debug\netcoreapp3.1\20-Hashtable.deps.json
+F:\CODE\C#\20-Hashtable\bin\Debug\netcoreapp3.1\20-Hashtable.runtimeconfig.json
+F:\CODE\C#\20-Hashtable\bin\Debug\netcoreapp3.1\20-Hashtable.runtimeconfig.dev.json
+F:\CODE\C#\20-Hashtable\bin\Debug\netcoreapp3.1\20-Hashtable.dll
+F:\CODE\C#\20-Hashtable\bin\Debug\netcoreapp3.1\20-Hashtable.pdb
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.AssemblyInfoInputs.cache
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.AssemblyInfo.cs
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.csproj.CoreCompileInputs.cache
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.dll
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.pdb
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.genruntimeconfig.cache
+F:\CODE\C#\20-Hashtable\obj\Debug\netcoreapp3.1\20-Hashtable.csproj.AssemblyReference.cache

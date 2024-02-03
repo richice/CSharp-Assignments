@@ -1,0 +1,14 @@
+F:\CODE\C#\13-Method\bin\Debug\netcoreapp3.1\13-Method.exe
+F:\CODE\C#\13-Method\bin\Debug\netcoreapp3.1\13-Method.deps.json
+F:\CODE\C#\13-Method\bin\Debug\netcoreapp3.1\13-Method.runtimeconfig.json
+F:\CODE\C#\13-Method\bin\Debug\netcoreapp3.1\13-Method.runtimeconfig.dev.json
+F:\CODE\C#\13-Method\bin\Debug\netcoreapp3.1\13-Method.dll
+F:\CODE\C#\13-Method\bin\Debug\netcoreapp3.1\13-Method.pdb
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.csproj.AssemblyReference.cache
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.AssemblyInfoInputs.cache
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.AssemblyInfo.cs
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.csproj.CoreCompileInputs.cache
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.dll
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.pdb
+F:\CODE\C#\13-Method\obj\Debug\netcoreapp3.1\13-Method.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\CODE\C#\11-Function\bin\Debug\netcoreapp3.1\11-Function.exe
+F:\CODE\C#\11-Function\bin\Debug\netcoreapp3.1\11-Function.deps.json
+F:\CODE\C#\11-Function\bin\Debug\netcoreapp3.1\11-Function.runtimeconfig.json
+F:\CODE\C#\11-Function\bin\Debug\netcoreapp3.1\11-Function.runtimeconfig.dev.json
+F:\CODE\C#\11-Function\bin\Debug\netcoreapp3.1\11-Function.dll
+F:\CODE\C#\11-Function\bin\Debug\netcoreapp3.1\11-Function.pdb
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.csproj.AssemblyReference.cache
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.AssemblyInfoInputs.cache
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.AssemblyInfo.cs
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.csproj.CoreCompileInputs.cache
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.dll
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.pdb
+F:\CODE\C#\11-Function\obj\Debug\netcoreapp3.1\11-Function.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\CODE\C#\16-Static\bin\Debug\netcoreapp3.1\16-Static.exe
+F:\CODE\C#\16-Static\bin\Debug\netcoreapp3.1\16-Static.deps.json
+F:\CODE\C#\16-Static\bin\Debug\netcoreapp3.1\16-Static.runtimeconfig.json
+F:\CODE\C#\16-Static\bin\Debug\netcoreapp3.1\16-Static.runtimeconfig.dev.json
+F:\CODE\C#\16-Static\bin\Debug\netcoreapp3.1\16-Static.dll
+F:\CODE\C#\16-Static\bin\Debug\netcoreapp3.1\16-Static.pdb
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.csproj.AssemblyReference.cache
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.AssemblyInfoInputs.cache
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.AssemblyInfo.cs
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.csproj.CoreCompileInputs.cache
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.dll
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.pdb
+F:\CODE\C#\16-Static\obj\Debug\netcoreapp3.1\16-Static.genruntimeconfig.cache

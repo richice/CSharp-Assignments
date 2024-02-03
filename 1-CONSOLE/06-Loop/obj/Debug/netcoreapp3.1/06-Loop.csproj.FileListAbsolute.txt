@@ -1,0 +1,14 @@
+F:\CODE\C#\06-Loop\bin\Debug\netcoreapp3.1\06-Loop.exe
+F:\CODE\C#\06-Loop\bin\Debug\netcoreapp3.1\06-Loop.deps.json
+F:\CODE\C#\06-Loop\bin\Debug\netcoreapp3.1\06-Loop.runtimeconfig.json
+F:\CODE\C#\06-Loop\bin\Debug\netcoreapp3.1\06-Loop.runtimeconfig.dev.json
+F:\CODE\C#\06-Loop\bin\Debug\netcoreapp3.1\06-Loop.dll
+F:\CODE\C#\06-Loop\bin\Debug\netcoreapp3.1\06-Loop.pdb
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.csproj.AssemblyReference.cache
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.AssemblyInfoInputs.cache
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.AssemblyInfo.cs
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.csproj.CoreCompileInputs.cache
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.dll
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.pdb
+F:\CODE\C#\06-Loop\obj\Debug\netcoreapp3.1\06-Loop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.AssemblyInfoInputs.cache
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.AssemblyInfo.cs
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.csproj.CoreCompileInputs.cache
+F:\CODE\C#\08-Enumeration\bin\Debug\netcoreapp3.1\08-Enumeration.exe
+F:\CODE\C#\08-Enumeration\bin\Debug\netcoreapp3.1\08-Enumeration.deps.json
+F:\CODE\C#\08-Enumeration\bin\Debug\netcoreapp3.1\08-Enumeration.runtimeconfig.json
+F:\CODE\C#\08-Enumeration\bin\Debug\netcoreapp3.1\08-Enumeration.runtimeconfig.dev.json
+F:\CODE\C#\08-Enumeration\bin\Debug\netcoreapp3.1\08-Enumeration.dll
+F:\CODE\C#\08-Enumeration\bin\Debug\netcoreapp3.1\08-Enumeration.pdb
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.dll
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.pdb
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.genruntimeconfig.cache
+F:\CODE\C#\08-Enumeration\obj\Debug\netcoreapp3.1\08-Enumeration.csproj.AssemblyReference.cache

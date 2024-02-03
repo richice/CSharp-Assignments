@@ -1,0 +1,13 @@
+F:\CODE\C#\26-DesignPlant\bin\Debug\netcoreapp3.1\26-DesignPlant.exe
+F:\CODE\C#\26-DesignPlant\bin\Debug\netcoreapp3.1\26-DesignPlant.deps.json
+F:\CODE\C#\26-DesignPlant\bin\Debug\netcoreapp3.1\26-DesignPlant.runtimeconfig.json
+F:\CODE\C#\26-DesignPlant\bin\Debug\netcoreapp3.1\26-DesignPlant.runtimeconfig.dev.json
+F:\CODE\C#\26-DesignPlant\bin\Debug\netcoreapp3.1\26-DesignPlant.dll
+F:\CODE\C#\26-DesignPlant\bin\Debug\netcoreapp3.1\26-DesignPlant.pdb
+F:\CODE\C#\26-DesignPlant\obj\Debug\netcoreapp3.1\26-DesignPlant.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\26-DesignPlant\obj\Debug\netcoreapp3.1\26-DesignPlant.AssemblyInfoInputs.cache
+F:\CODE\C#\26-DesignPlant\obj\Debug\netcoreapp3.1\26-DesignPlant.AssemblyInfo.cs
+F:\CODE\C#\26-DesignPlant\obj\Debug\netcoreapp3.1\26-DesignPlant.csproj.CoreCompileInputs.cache
+F:\CODE\C#\26-DesignPlant\obj\Debug\netcoreapp3.1\26-DesignPlant.dll
+F:\CODE\C#\26-DesignPlant\obj\Debug\netcoreapp3.1\26-DesignPlant.pdb
+F:\CODE\C#\26-DesignPlant\obj\Debug\netcoreapp3.1\26-DesignPlant.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\CODE\C#\23-Dictionary\bin\Debug\netcoreapp3.1\23-Dictionary.exe
+F:\CODE\C#\23-Dictionary\bin\Debug\netcoreapp3.1\23-Dictionary.deps.json
+F:\CODE\C#\23-Dictionary\bin\Debug\netcoreapp3.1\23-Dictionary.runtimeconfig.json
+F:\CODE\C#\23-Dictionary\bin\Debug\netcoreapp3.1\23-Dictionary.runtimeconfig.dev.json
+F:\CODE\C#\23-Dictionary\bin\Debug\netcoreapp3.1\23-Dictionary.dll
+F:\CODE\C#\23-Dictionary\bin\Debug\netcoreapp3.1\23-Dictionary.pdb
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.csproj.AssemblyReference.cache
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.AssemblyInfoInputs.cache
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.AssemblyInfo.cs
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.csproj.CoreCompileInputs.cache
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.dll
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.pdb
+F:\CODE\C#\23-Dictionary\obj\Debug\netcoreapp3.1\23-Dictionary.genruntimeconfig.cache

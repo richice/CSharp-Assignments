@@ -1,0 +1,14 @@
+F:\VisualStudio\C#\01-My first demo\bin\Debug\01-My first demo.exe.config
+F:\VisualStudio\C#\01-My first demo\bin\Debug\01-My first demo.exe
+F:\VisualStudio\C#\01-My first demo\bin\Debug\01-My first demo.pdb
+F:\VisualStudio\C#\01-My first demo\obj\Debug\01-My first demo.csproj.AssemblyReference.cache
+F:\VisualStudio\C#\01-My first demo\obj\Debug\01-My first demo.csproj.CoreCompileInputs.cache
+F:\VisualStudio\C#\01-My first demo\obj\Debug\01-My first demo.exe
+F:\VisualStudio\C#\01-My first demo\obj\Debug\01-My first demo.pdb
+F:\CODE\C#\01-My first demo\bin\Debug\01-My first demo.exe.config
+F:\CODE\C#\01-My first demo\bin\Debug\01-My first demo.exe
+F:\CODE\C#\01-My first demo\bin\Debug\01-My first demo.pdb
+F:\CODE\C#\01-My first demo\obj\Debug\01-My first demo.csproj.AssemblyReference.cache
+F:\CODE\C#\01-My first demo\obj\Debug\01-My first demo.csproj.CoreCompileInputs.cache
+F:\CODE\C#\01-My first demo\obj\Debug\01-My first demo.exe
+F:\CODE\C#\01-My first demo\obj\Debug\01-My first demo.pdb

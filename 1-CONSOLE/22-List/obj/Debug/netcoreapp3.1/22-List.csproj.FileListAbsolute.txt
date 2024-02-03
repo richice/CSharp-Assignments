@@ -1,0 +1,13 @@
+F:\CODE\C#\22-List\bin\Debug\netcoreapp3.1\22-List.exe
+F:\CODE\C#\22-List\bin\Debug\netcoreapp3.1\22-List.deps.json
+F:\CODE\C#\22-List\bin\Debug\netcoreapp3.1\22-List.runtimeconfig.json
+F:\CODE\C#\22-List\bin\Debug\netcoreapp3.1\22-List.runtimeconfig.dev.json
+F:\CODE\C#\22-List\bin\Debug\netcoreapp3.1\22-List.dll
+F:\CODE\C#\22-List\bin\Debug\netcoreapp3.1\22-List.pdb
+F:\CODE\C#\22-List\obj\Debug\netcoreapp3.1\22-List.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\22-List\obj\Debug\netcoreapp3.1\22-List.AssemblyInfoInputs.cache
+F:\CODE\C#\22-List\obj\Debug\netcoreapp3.1\22-List.AssemblyInfo.cs
+F:\CODE\C#\22-List\obj\Debug\netcoreapp3.1\22-List.csproj.CoreCompileInputs.cache
+F:\CODE\C#\22-List\obj\Debug\netcoreapp3.1\22-List.dll
+F:\CODE\C#\22-List\obj\Debug\netcoreapp3.1\22-List.pdb
+F:\CODE\C#\22-List\obj\Debug\netcoreapp3.1\22-List.genruntimeconfig.cache

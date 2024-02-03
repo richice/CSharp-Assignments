@@ -1,0 +1,14 @@
+F:\CODE\C#\05-Operator\bin\Debug\netcoreapp3.1\05-Operator.exe
+F:\CODE\C#\05-Operator\bin\Debug\netcoreapp3.1\05-Operator.deps.json
+F:\CODE\C#\05-Operator\bin\Debug\netcoreapp3.1\05-Operator.runtimeconfig.json
+F:\CODE\C#\05-Operator\bin\Debug\netcoreapp3.1\05-Operator.runtimeconfig.dev.json
+F:\CODE\C#\05-Operator\bin\Debug\netcoreapp3.1\05-Operator.dll
+F:\CODE\C#\05-Operator\bin\Debug\netcoreapp3.1\05-Operator.pdb
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.csproj.AssemblyReference.cache
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.AssemblyInfoInputs.cache
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.AssemblyInfo.cs
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.csproj.CoreCompileInputs.cache
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.dll
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.pdb
+F:\CODE\C#\05-Operator\obj\Debug\netcoreapp3.1\05-Operator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\CODE\C#\14-Ludo chess Game\bin\Debug\netcoreapp3.1\14-Ludo chess Game.exe
+F:\CODE\C#\14-Ludo chess Game\bin\Debug\netcoreapp3.1\14-Ludo chess Game.deps.json
+F:\CODE\C#\14-Ludo chess Game\bin\Debug\netcoreapp3.1\14-Ludo chess Game.runtimeconfig.json
+F:\CODE\C#\14-Ludo chess Game\bin\Debug\netcoreapp3.1\14-Ludo chess Game.runtimeconfig.dev.json
+F:\CODE\C#\14-Ludo chess Game\bin\Debug\netcoreapp3.1\14-Ludo chess Game.dll
+F:\CODE\C#\14-Ludo chess Game\bin\Debug\netcoreapp3.1\14-Ludo chess Game.pdb
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.AssemblyInfoInputs.cache
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.AssemblyInfo.cs
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.csproj.CoreCompileInputs.cache
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.dll
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.pdb
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.genruntimeconfig.cache
+F:\CODE\C#\14-Ludo chess Game\obj\Debug\netcoreapp3.1\14-Ludo chess Game.csproj.AssemblyReference.cache

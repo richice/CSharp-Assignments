@@ -1,0 +1,13 @@
+F:\CODE\C#\24-Stream\bin\Debug\netcoreapp3.1\24-Stream.exe
+F:\CODE\C#\24-Stream\bin\Debug\netcoreapp3.1\24-Stream.deps.json
+F:\CODE\C#\24-Stream\bin\Debug\netcoreapp3.1\24-Stream.runtimeconfig.json
+F:\CODE\C#\24-Stream\bin\Debug\netcoreapp3.1\24-Stream.runtimeconfig.dev.json
+F:\CODE\C#\24-Stream\bin\Debug\netcoreapp3.1\24-Stream.dll
+F:\CODE\C#\24-Stream\bin\Debug\netcoreapp3.1\24-Stream.pdb
+F:\CODE\C#\24-Stream\obj\Debug\netcoreapp3.1\24-Stream.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\24-Stream\obj\Debug\netcoreapp3.1\24-Stream.AssemblyInfoInputs.cache
+F:\CODE\C#\24-Stream\obj\Debug\netcoreapp3.1\24-Stream.AssemblyInfo.cs
+F:\CODE\C#\24-Stream\obj\Debug\netcoreapp3.1\24-Stream.csproj.CoreCompileInputs.cache
+F:\CODE\C#\24-Stream\obj\Debug\netcoreapp3.1\24-Stream.dll
+F:\CODE\C#\24-Stream\obj\Debug\netcoreapp3.1\24-Stream.pdb
+F:\CODE\C#\24-Stream\obj\Debug\netcoreapp3.1\24-Stream.genruntimeconfig.cache

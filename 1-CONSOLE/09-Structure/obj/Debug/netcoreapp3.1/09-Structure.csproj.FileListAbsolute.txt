@@ -1,0 +1,14 @@
+F:\CODE\C#\09-Structure\bin\Debug\netcoreapp3.1\09-Structure.exe
+F:\CODE\C#\09-Structure\bin\Debug\netcoreapp3.1\09-Structure.deps.json
+F:\CODE\C#\09-Structure\bin\Debug\netcoreapp3.1\09-Structure.runtimeconfig.json
+F:\CODE\C#\09-Structure\bin\Debug\netcoreapp3.1\09-Structure.runtimeconfig.dev.json
+F:\CODE\C#\09-Structure\bin\Debug\netcoreapp3.1\09-Structure.dll
+F:\CODE\C#\09-Structure\bin\Debug\netcoreapp3.1\09-Structure.pdb
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.csproj.AssemblyReference.cache
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.AssemblyInfoInputs.cache
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.AssemblyInfo.cs
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.csproj.CoreCompileInputs.cache
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.dll
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.pdb
+F:\CODE\C#\09-Structure\obj\Debug\netcoreapp3.1\09-Structure.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\CODE\C#\10-Array\bin\Debug\netcoreapp3.1\10-Array.exe
+F:\CODE\C#\10-Array\bin\Debug\netcoreapp3.1\10-Array.deps.json
+F:\CODE\C#\10-Array\bin\Debug\netcoreapp3.1\10-Array.runtimeconfig.json
+F:\CODE\C#\10-Array\bin\Debug\netcoreapp3.1\10-Array.runtimeconfig.dev.json
+F:\CODE\C#\10-Array\bin\Debug\netcoreapp3.1\10-Array.dll
+F:\CODE\C#\10-Array\bin\Debug\netcoreapp3.1\10-Array.pdb
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.AssemblyInfoInputs.cache
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.AssemblyInfo.cs
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.csproj.CoreCompileInputs.cache
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.dll
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.pdb
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.genruntimeconfig.cache
+F:\CODE\C#\10-Array\obj\Debug\netcoreapp3.1\10-Array.csproj.AssemblyReference.cache

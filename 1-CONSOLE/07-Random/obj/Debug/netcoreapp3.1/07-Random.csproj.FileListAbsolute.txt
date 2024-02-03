@@ -1,0 +1,14 @@
+F:\CODE\C#\07-Random\bin\Debug\netcoreapp3.1\07-Random.exe
+F:\CODE\C#\07-Random\bin\Debug\netcoreapp3.1\07-Random.deps.json
+F:\CODE\C#\07-Random\bin\Debug\netcoreapp3.1\07-Random.runtimeconfig.json
+F:\CODE\C#\07-Random\bin\Debug\netcoreapp3.1\07-Random.runtimeconfig.dev.json
+F:\CODE\C#\07-Random\bin\Debug\netcoreapp3.1\07-Random.dll
+F:\CODE\C#\07-Random\bin\Debug\netcoreapp3.1\07-Random.pdb
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.AssemblyInfoInputs.cache
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.AssemblyInfo.cs
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.csproj.CoreCompileInputs.cache
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.dll
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.pdb
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.genruntimeconfig.cache
+F:\CODE\C#\07-Random\obj\Debug\netcoreapp3.1\07-Random.csproj.AssemblyReference.cache

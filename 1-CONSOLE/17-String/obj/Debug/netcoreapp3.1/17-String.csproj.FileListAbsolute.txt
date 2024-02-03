@@ -1,0 +1,14 @@
+F:\CODE\C#\17-String\bin\Debug\netcoreapp3.1\17-String.exe
+F:\CODE\C#\17-String\bin\Debug\netcoreapp3.1\17-String.deps.json
+F:\CODE\C#\17-String\bin\Debug\netcoreapp3.1\17-String.runtimeconfig.json
+F:\CODE\C#\17-String\bin\Debug\netcoreapp3.1\17-String.runtimeconfig.dev.json
+F:\CODE\C#\17-String\bin\Debug\netcoreapp3.1\17-String.dll
+F:\CODE\C#\17-String\bin\Debug\netcoreapp3.1\17-String.pdb
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.AssemblyInfoInputs.cache
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.AssemblyInfo.cs
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.csproj.CoreCompileInputs.cache
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.dll
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.pdb
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.genruntimeconfig.cache
+F:\CODE\C#\17-String\obj\Debug\netcoreapp3.1\17-String.csproj.AssemblyReference.cache

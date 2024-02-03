@@ -1,0 +1,14 @@
+F:\CODE\C#\27-Supermarket\bin\Debug\netcoreapp3.1\27-Supermarket.exe
+F:\CODE\C#\27-Supermarket\bin\Debug\netcoreapp3.1\27-Supermarket.deps.json
+F:\CODE\C#\27-Supermarket\bin\Debug\netcoreapp3.1\27-Supermarket.runtimeconfig.json
+F:\CODE\C#\27-Supermarket\bin\Debug\netcoreapp3.1\27-Supermarket.runtimeconfig.dev.json
+F:\CODE\C#\27-Supermarket\bin\Debug\netcoreapp3.1\27-Supermarket.dll
+F:\CODE\C#\27-Supermarket\bin\Debug\netcoreapp3.1\27-Supermarket.pdb
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.csproj.AssemblyReference.cache
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.AssemblyInfoInputs.cache
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.AssemblyInfo.cs
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.csproj.CoreCompileInputs.cache
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.dll
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.pdb
+F:\CODE\C#\27-Supermarket\obj\Debug\netcoreapp3.1\27-Supermarket.genruntimeconfig.cache

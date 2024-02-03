@@ -1,0 +1,14 @@
+F:\CODE\C#\28-MD5\bin\Debug\netcoreapp3.1\28-MD5.exe
+F:\CODE\C#\28-MD5\bin\Debug\netcoreapp3.1\28-MD5.deps.json
+F:\CODE\C#\28-MD5\bin\Debug\netcoreapp3.1\28-MD5.runtimeconfig.json
+F:\CODE\C#\28-MD5\bin\Debug\netcoreapp3.1\28-MD5.runtimeconfig.dev.json
+F:\CODE\C#\28-MD5\bin\Debug\netcoreapp3.1\28-MD5.dll
+F:\CODE\C#\28-MD5\bin\Debug\netcoreapp3.1\28-MD5.pdb
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.csproj.AssemblyReference.cache
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.AssemblyInfoInputs.cache
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.AssemblyInfo.cs
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.csproj.CoreCompileInputs.cache
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.dll
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.pdb
+F:\CODE\C#\28-MD5\obj\Debug\netcoreapp3.1\28-MD5.genruntimeconfig.cache

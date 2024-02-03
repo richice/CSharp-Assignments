@@ -1,0 +1,14 @@
+F:\CODE\C#\18-Inherit\bin\Debug\netcoreapp3.1\18-Inherit.exe
+F:\CODE\C#\18-Inherit\bin\Debug\netcoreapp3.1\18-Inherit.deps.json
+F:\CODE\C#\18-Inherit\bin\Debug\netcoreapp3.1\18-Inherit.runtimeconfig.json
+F:\CODE\C#\18-Inherit\bin\Debug\netcoreapp3.1\18-Inherit.runtimeconfig.dev.json
+F:\CODE\C#\18-Inherit\bin\Debug\netcoreapp3.1\18-Inherit.dll
+F:\CODE\C#\18-Inherit\bin\Debug\netcoreapp3.1\18-Inherit.pdb
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.AssemblyInfoInputs.cache
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.AssemblyInfo.cs
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.csproj.CoreCompileInputs.cache
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.dll
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.pdb
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.genruntimeconfig.cache
+F:\CODE\C#\18-Inherit\obj\Debug\netcoreapp3.1\18-Inherit.csproj.AssemblyReference.cache

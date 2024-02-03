@@ -1,0 +1,14 @@
+F:\CODE\C#\25-MultiState\bin\Debug\netcoreapp3.1\25-MultiState.exe
+F:\CODE\C#\25-MultiState\bin\Debug\netcoreapp3.1\25-MultiState.deps.json
+F:\CODE\C#\25-MultiState\bin\Debug\netcoreapp3.1\25-MultiState.runtimeconfig.json
+F:\CODE\C#\25-MultiState\bin\Debug\netcoreapp3.1\25-MultiState.runtimeconfig.dev.json
+F:\CODE\C#\25-MultiState\bin\Debug\netcoreapp3.1\25-MultiState.dll
+F:\CODE\C#\25-MultiState\bin\Debug\netcoreapp3.1\25-MultiState.pdb
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.csproj.AssemblyReference.cache
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.AssemblyInfoInputs.cache
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.AssemblyInfo.cs
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.csproj.CoreCompileInputs.cache
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.dll
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.pdb
+F:\CODE\C#\25-MultiState\obj\Debug\netcoreapp3.1\25-MultiState.genruntimeconfig.cache

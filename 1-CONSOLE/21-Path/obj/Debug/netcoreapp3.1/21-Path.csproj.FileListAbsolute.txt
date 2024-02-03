@@ -1,0 +1,14 @@
+F:\CODE\C#\21-Path\bin\Debug\netcoreapp3.1\21-Path.exe
+F:\CODE\C#\21-Path\bin\Debug\netcoreapp3.1\21-Path.deps.json
+F:\CODE\C#\21-Path\bin\Debug\netcoreapp3.1\21-Path.runtimeconfig.json
+F:\CODE\C#\21-Path\bin\Debug\netcoreapp3.1\21-Path.runtimeconfig.dev.json
+F:\CODE\C#\21-Path\bin\Debug\netcoreapp3.1\21-Path.dll
+F:\CODE\C#\21-Path\bin\Debug\netcoreapp3.1\21-Path.pdb
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.AssemblyInfoInputs.cache
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.AssemblyInfo.cs
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.csproj.CoreCompileInputs.cache
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.dll
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.pdb
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.genruntimeconfig.cache
+F:\CODE\C#\21-Path\obj\Debug\netcoreapp3.1\21-Path.csproj.AssemblyReference.cache

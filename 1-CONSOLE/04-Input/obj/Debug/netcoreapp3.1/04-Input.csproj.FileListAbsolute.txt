@@ -1,0 +1,14 @@
+F:\CODE\C#\04-Input\bin\Debug\netcoreapp3.1\04-Input.exe
+F:\CODE\C#\04-Input\bin\Debug\netcoreapp3.1\04-Input.deps.json
+F:\CODE\C#\04-Input\bin\Debug\netcoreapp3.1\04-Input.runtimeconfig.json
+F:\CODE\C#\04-Input\bin\Debug\netcoreapp3.1\04-Input.runtimeconfig.dev.json
+F:\CODE\C#\04-Input\bin\Debug\netcoreapp3.1\04-Input.dll
+F:\CODE\C#\04-Input\bin\Debug\netcoreapp3.1\04-Input.pdb
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.csproj.AssemblyReference.cache
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.AssemblyInfoInputs.cache
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.AssemblyInfo.cs
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.csproj.CoreCompileInputs.cache
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.dll
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.pdb
+F:\CODE\C#\04-Input\obj\Debug\netcoreapp3.1\04-Input.genruntimeconfig.cache
